@@ -15,14 +15,14 @@ The architecture is designed using the C4 model for visualizing software systems
 This diagram shows the relationship between the user and the system. The user interacts with the URL Shortener System to create and use short links.
 
 
-*./diagrams/c1-context.png*
+*./Diagrams/c1-context.png*
 
 #### **C2: Container Diagram**
 
 This diagram shows the internal components of the system. It consists of a stateless API, a NoSQL database for primary storage, and an in-memory cache for performance.
 
 
-*./diagrams/c2-container.png*
+*./Diagrams/c2-container.png*
 
 ---
 
